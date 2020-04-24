@@ -1,0 +1,17 @@
+commit ab2cd0ffdd9cbe79c63490b1a8572732600d5c5a
+Author: Dasara Shullani <shullani.dasara@gmail.com>
+Date:   Thu Apr 23 15:30:33 2020 +0200
+
+    added gitignore
+
+commit 4c294b3c37f81e297978cec3cc5fa9a9b00cf597
+Author: Dasara Shullani <shullani.dasara@gmail.com>
+Date:   Thu Apr 23 15:03:53 2020 +0200
+
+    added two files
+
+commit 497939289b8faa3ac609d73d5d964a4dca444a8e
+Author: Dasara Shullani <shullani.dasara@gmail.com>
+Date:   Thu Apr 23 14:59:41 2020 +0200
+
+    added readme.txt
