@@ -1,28 +1,22 @@
-# This is a large heading
+# Dasara Shullani
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and **name**.
+I live in Firenze (Italy).
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+- *Il vecchio e il mare* by Ernest Hemingway
+- *l'arte della lentezza* by Veronique Aiache
+- *Mi amero' lo stesso* by Paola Turci
 
-Here is `some code` in the middle of a sentence.
+### Food
 
-```
-This is
-a block
-of code
-```
+I'm dreaming about eating in these restaurants:
 
-Here is how you make [a link](https://www.wikipedia.org).
+1. In barca @Calambrone
+2. Skipper @Firenze
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Contact
+
+The best way to get in touch with me is [on Twitter](https://twitter.com/dasarashullani).
